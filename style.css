@@ -1,0 +1,52 @@
+body{
+margin: 0;
+}
+
+h1 {
+color: red;
+text-align: center;
+background-color: black;
+margin:0;
+}
+
+p {
+color: black;
+
+text-align: center;
+margin:0;
+}
+
+img{
+margin:5pt;
+text-align: center;
+}
+
+#header{
+color: red;
+padding: 20px;
+font-family: "Open Sans", sans-serif;
+}
+
+.big{
+color: blue;
+text-align: center;
+font-weight: bold;
+}
+
+.mypara{
+color:black;
+text-align: center;
+}
+a{
+text-decoration: none;
+color: red;
+background-color: #000000;
+text-transform: uppercase;
+padding: 8px 16px;
+margin: 5px;
+}
+a:hover{
+background-color: #ffffff;
+border: 3px solid;
+transition: 0.25s ease-in;
+}
